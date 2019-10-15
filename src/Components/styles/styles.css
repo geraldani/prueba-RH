@@ -1,0 +1,22 @@
+.invalid-feedback{
+    display: initial!important;
+    position: absolute;
+}
+
+.error-c{
+    height: 100vh;
+    width: 100vw;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    background-color: #4aac96;
+}
+
+.error-c img{
+    width: 50%;
+}
+
+.max-width{
+    min-width: 100%;
+}
